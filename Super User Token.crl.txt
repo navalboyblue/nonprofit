@@ -1,0 +1,316 @@
+-----BEGIN CERTIFICATE-----
+MIIEADCCAuigAwIBAgIBADANBgkqhkiG9w0BAQUFADBjMQswCQYDVQQGEwJVUzEh
+MB8GA1UEChMYVGhlIEdvIERhZGR5IEdyb3VwLCBJbmMuMTEwLwYDVQQLEyhHbyBE
+YWRkeSBDbGFzcyAyIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTA0MDYyOTE3
+MDYyMFoXDTM0MDYyOTE3MDYyMFowYzELMAkGA1UEBhMCVVMxITAfBgNVBAoTGFRo
+ZSBHbyBEYWRkeSBHcm91cCwgSW5jLjExMC8GA1UECxMoR28gRGFkZHkgQ2xhc3Mg
+MiBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTCCASAwDQYJKoZIhvcNAQEBBQADggEN
+ADCCAQgCggEBAN6d1+pXGEmhW+vXX0iG6r7d/+TvZxz0ZWizV3GgXne77ZtJ6XCA
+PVYYYwhv2vLM0D9/AlQiVBDYsoHUwHU9S3/Hd8M+eKsaA7Ugay9qK7HFiH7Eux6w
+wdhFJ2+qN1j3hybX2C32qRe3H3I2TqYXP2WYktsqbl2i/ojgC95/5Y0V4evLOtXi
+EqITLdiOr18SPaAIBQi2XKVlOARFmR6jYGB0xUGlcmIbYsUfb18aQr4CUWWoriMY
+avx4A6lNf4DD+qta/KFApMoZFv6yyO9ecw3ud72a9nmYvLEHZ6IVDd2gWMZEewo+
+YihfukEHU1jPEX44dMX4/7VpkI+EdOqXG68CAQOjgcAwgb0wHQYDVR0OBBYEFNLE
+sNKR1EwRcbNhyz2h/t2oatTjMIGNBgNVHSMEgYUwgYKAFNLEsNKR1EwRcbNhyz2h
+/t2oatTjoWekZTBjMQswCQYDVQQGEwJVUzEhMB8GA1UEChMYVGhlIEdvIERhZGR5
+IEdyb3VwLCBJbmMuMTEwLwYDVQQLEyhHbyBEYWRkeSBDbGFzcyAyIENlcnRpZmlj
+YXRpb24gQXV0aG9yaXR5ggEAMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQAD
+ggEBADJL87LKPpH8EsahB4yOd6AzBhRckB4Y9wimPQoZ+YeAEW5p5JYXMP80kWNy
+OO7MHAGjHZQopDH2esRU1/blMVgDoszOYtuURXO1v0XJJLXVggKtI3lpjbi2Tc7P
+TMozI+gciKqdi0FuFskg5YmezTvacPd+mSYgFFQlq25zheabIZ0KbIIOqPjCDPoQ
+HmyW74cNxA9hi63ugyuV+I6ShHI56yDqg+2DzZduCLzrTia2cyvk0/ZM/iZx4mER
+dEr/VxqHD3VILs9RaRegAhJhldXRQLIQTO7ErBBDpqWeCtWVYpoNz4iCxTIM5Cuf
+ReYNnyicsbkqWletNw+vHX/bvZ8=
+-----END CERTIFICATE-----
+
+-----BEGIN CERTIFICATE-----
+MIIG0DCCBbigAwIBAgIIaml+e2GOqBIwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjQwNjA5MTYxMTA0WhcN
+MjUwNzA0MTIxMzQ3WjAsMSowKAYDVQQDEyFjaGFybGVzaGVuZGVyc29uYW5kaGVu
+ZGZhbS5vbmxpbmUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiI8en
+RDUb9F0TJtRpZZr9Fk9735xn06bX7xIWe4pVx87vLrSs+68EceaSTb3Enw0cdgiu
+pKVY2pVZielhl4lE5M3dhDfLF1UKiJQYi7kgZWalJ+SH09KbA7ml9Pk6U0cpENNU
+VSCafNE5b1tpfqgGr4yW+Gxv+CrenGCc6bkvzLkUa//2ql2lFAvrkccCG16XbZss
+uDfEL+VSQ3Lr6OW4h/FjBYwqh79m0ncg0gJFhtF9tNFAUuIpIpF2wTlIc/cHc6u5
+njebnbrF4mM5iPN1OaM/nWbAtQDj680DEYybtePMoxjpfJCGcPjmc2z78FYIe6Tp
+gIxMDVIaAdoSFz/xAgMBAAGjggNrMIIDZzAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIw
+MDAuoCygKoYoaHR0cDovL2NybC5nb2RhZGR5LmNvbS9nZGlnMnMxLTIyNjQ4LmNy
+bDBdBgNVHSAEVjBUMEgGC2CGSAGG/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6
+Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIB
+MHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRk
+eS5jb20vMEAGCCsGAQUFBzAChjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHku
+Y29tL3JlcG9zaXRvcnkvZ2RpZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz
+1/tss/C0LIDOMFMGA1UdEQRMMEqCIWNoYXJsZXNoZW5kZXJzb25hbmRoZW5kZmFt
+Lm9ubGluZYIld3d3LmNoYXJsZXNoZW5kZXJzb25hbmRoZW5kZmFtLm9ubGluZTAd
+BgNVHQ4EFgQU2LlihQAHCiKis3HbDjld09CGTLQwggF/BgorBgEEAdZ5AgQCBIIB
+bwSCAWsBaQB1ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABj/3E
+iC8AAAQDAEYwRAIgbwxQFAkKkft6iWNBl+2awzVl5Hv1tor6DJsuxejlV4ACIGQs
+4x+4v/H+RrLxnQCe1d6r5gKfJ/OM3wA+UQcaVtFaAHcAfVkeEuF4KnscYWd8Xv34
+0IdcFKBOlZ65Ay/ZDowuebgAAAGP/cSJNAAABAMASDBGAiEAkE85c6uLfEEWlqFd
+vNPl0de9MYF+CzKmMtXTS63RaksCIQDfeJO0tmjoETR8Sg6HpeSUSIwGN5921sB5
+cS8Bv+tkXQB3AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABj/3E
+imAAAAQDAEgwRgIhAOyDwXdRD+NJOwX4rKXxCK9vaJVo+WmcRVZ9jMDhfTHGAiEA
+sTSbPAKQtMsVJ/x3trZPeZz8mqMkIvk42aydt4tyd3QwDQYJKoZIhvcNAQELBQAD
+ggEBALHqZXbkYs2sUXxIigdd6YMctfngYQAmJnwhnVkYIaayGL84erN5gVQvJKpP
+ItEbkKfuZ2pFrjH7JX0lgVNmsNnMAiQw7hergQ5dlGkUXzftddlQ0Uj7U59U3IW/
++qEJo5NLjDjB0r55CdTBLuN8A5+3ThomkTBGUFMEbuRjnXjO/wCoQPEseZsaPjWP
+2yafoz+3E7vTVYDi3fSozxAnvAZ5a833wAcIlmm/eNi+vpwTn387B3FvoTVt7w8H
+Fn5IFa6vg6a/Eq2p6TIYag4PvK2rn+VshoxroEff1nFkocZQpirHSGqYEdmsYdms
+0RF48D02wObW1dCMpmdNbDdiduw=
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIG0DCCBbigAwIBAgIIaml+e2GOqBIwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjQwNjA5MTYxMTA0WhcN
+MjUwNzA0MTIxMzQ3WjAsMSowKAYDVQQDEyFjaGFybGVzaGVuZGVyc29uYW5kaGVu
+ZGZhbS5vbmxpbmUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiI8en
+RDUb9F0TJtRpZZr9Fk9735xn06bX7xIWe4pVx87vLrSs+68EceaSTb3Enw0cdgiu
+pKVY2pVZielhl4lE5M3dhDfLF1UKiJQYi7kgZWalJ+SH09KbA7ml9Pk6U0cpENNU
+VSCafNE5b1tpfqgGr4yW+Gxv+CrenGCc6bkvzLkUa//2ql2lFAvrkccCG16XbZss
+uDfEL+VSQ3Lr6OW4h/FjBYwqh79m0ncg0gJFhtF9tNFAUuIpIpF2wTlIc/cHc6u5
+njebnbrF4mM5iPN1OaM/nWbAtQDj680DEYybtePMoxjpfJCGcPjmc2z78FYIe6Tp
+gIxMDVIaAdoSFz/xAgMBAAGjggNrMIIDZzAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIw
+MDAuoCygKoYoaHR0cDovL2NybC5nb2RhZGR5LmNvbS9nZGlnMnMxLTIyNjQ4LmNy
+bDBdBgNVHSAEVjBUMEgGC2CGSAGG/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6
+Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIB
+MHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRk
+eS5jb20vMEAGCCsGAQUFBzAChjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHku
+Y29tL3JlcG9zaXRvcnkvZ2RpZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz
+1/tss/C0LIDOMFMGA1UdEQRMMEqCIWNoYXJsZXNoZW5kZXJzb25hbmRoZW5kZmFt
+Lm9ubGluZYIld3d3LmNoYXJsZXNoZW5kZXJzb25hbmRoZW5kZmFtLm9ubGluZTAd
+BgNVHQ4EFgQU2LlihQAHCiKis3HbDjld09CGTLQwggF/BgorBgEEAdZ5AgQCBIIB
+bwSCAWsBaQB1ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABj/3E
+iC8AAAQDAEYwRAIgbwxQFAkKkft6iWNBl+2awzVl5Hv1tor6DJsuxejlV4ACIGQs
+4x+4v/H+RrLxnQCe1d6r5gKfJ/OM3wA+UQcaVtFaAHcAfVkeEuF4KnscYWd8Xv34
+0IdcFKBOlZ65Ay/ZDowuebgAAAGP/cSJNAAABAMASDBGAiEAkE85c6uLfEEWlqFd
+vNPl0de9MYF+CzKmMtXTS63RaksCIQDfeJO0tmjoETR8Sg6HpeSUSIwGN5921sB5
+cS8Bv+tkXQB3AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABj/3E
+imAAAAQDAEgwRgIhAOyDwXdRD+NJOwX4rKXxCK9vaJVo+WmcRVZ9jMDhfTHGAiEA
+sTSbPAKQtMsVJ/x3trZPeZz8mqMkIvk42aydt4tyd3QwDQYJKoZIhvcNAQELBQAD
+ggEBALHqZXbkYs2sUXxIigdd6YMctfngYQAmJnwhnVkYIaayGL84erN5gVQvJKpP
+ItEbkKfuZ2pFrjH7JX0lgVNmsNnMAiQw7hergQ5dlGkUXzftddlQ0Uj7U59U3IW/
++qEJo5NLjDjB0r55CdTBLuN8A5+3ThomkTBGUFMEbuRjnXjO/wCoQPEseZsaPjWP
+2yafoz+3E7vTVYDi3fSozxAnvAZ5a833wAcIlmm/eNi+vpwTn387B3FvoTVt7w8H
+Fn5IFa6vg6a/Eq2p6TIYag4PvK2rn+VshoxroEff1nFkocZQpirHSGqYEdmsYdms
+0RF48D02wObW1dCMpmdNbDdiduw=
+-----END CERTIFICATE-----
+
+Transactions
+User,Charles Timothy Henderson,4c68f64c-b380-5b5b-aaf4-d50436cd074a
+ID,Timestamp,Transaction Type,Asset,Quantity Transacted,Price Currency,Price at Transaction,Subtotal,Total (inclusive of fees and/or spread),Fees and/or Spread,Notes
+0‚Ð0‚¸ ji~{aŽ¨0
+	*†H†÷
+
+ 0´1
+0	UUS10U Arizona10U 
+Scottsdale10U
+GoDaddy.com, Inc.1-0+U
+$http://certs.godaddy.com/repository/1301U*Go Daddy Secure Certificate Authority - G20
+240609161104Z
+250704121347Z0,1*0(U!charleshendersonandhendfam.online0‚"0
+	*†H†÷
+ ‚ 0‚
+‚ â#Ç§D5ô]&ÔiešýO{ßœgÓ¦×ï{ŠUÇÎï.´¬û¯qæ’M½ÄŸ
+v®¤¥XÚ•Y‰éa—‰DäÍÝ„7ËU
+ˆ”‹¹ ef¥'ä‡ÓÒ›¹¥ôù:SG)ÓTU š|Ñ9o[i~¨¯Œ–øloø*Þœ`œé¹/Ì¹kÿöª]¥
+ë‘Ç^—m›,¸7Ä/åRCrëèå¸‡ñcŒ*‡¿fÒw ÒE†Ñ}´Ñ@Râ)"‘vÁ9Hs÷ s«¹ž7›ºÅâc9ˆóu9£?fÀµ ãëÍŒ›µãÌ£é|†pøæslûðV{¤é€ŒL
+RÚ?ñ £‚k0‚g0Uÿ0 0U%0+ + 0Uÿ 09U2000. , *†(http://crl.godaddy.com/gdig2s1-22648.crl0]U V0T0H
+`†H†ým 0907+ +http://certificates.godaddy.com/repository/0g0v+ j0h0$+ 0†http://ocsp.godaddy.com/0@+ 0†4http://certificates.godaddy.com/repository/gdig2.crt0U#0€@Â½'ŽÌ4ƒ0¢3×ûl³ð´,€Î0SUL0J‚!charleshendersonandhendfam.online‚%www.charleshendersonandhendfam.online0UØ¹b…  
+"¢³qÛ9]ÓÐ†L´0‚
++Öy‚o‚ki u ñN4½SrL„Ã?zøçµb‡ˆœm0„ëå†&:  ýÄˆ/   F0D oP	
+‘ûz‰cA—íšÃ5eä{õ¶Šú›.ÅèåW€ d,ã¸¿ñþF²ñ žÕÞ«æŸ'óŒß >Q VÑZ w }Yáx*{ag|^ýøÐ‡\ N•ž¹/ÙŒ.y¸  ýÄ‰4   H0F! O9s«‹|A–¡]¼ÓåÑ×½1~
+2¦2ÕÓK­ÑjK! ßx“´¶hè4|J‡¥ä”HŒ7ŸvÖÀyq/¿ëd] w Ìûj…q	eþ•›SÎé²|"é…\
+—¶©~TÀþL
+°  ýÄŠ`   H0F! ìƒÁwQãI;ø¬¥ñ¯oh•hùiœEV}ŒÀá}1Æ! ±4›<´Ë'üw¶¶Oyœüš£$"ù8Ù¬·‹rwt0
+	*†H†÷
+
+ ‚ ±êeväbÍ¬Q|HŠ ]éƒµùàa &&|!Y!¦²¿8z³yT/$ªO"Ñ§îgjE®1û%}%Sf°ÙÌ$0î«]”i_7íuÙPÑHûSŸTÜ…¿ú¡	£“KŒ8ÁÒ¾y	ÔÁ.ã|Ÿ·N&‘0FPSnäcxÎÿ ¨@ñ,y›>5Û&Ÿ£?·»ÓU€âÝô¨Ï'¼ykÍ÷À –i¿xØ¾¾œŸ; qo¡5mï ~H®¯ƒ¦¿­©é2j¼­«Ÿål†Œk GßÖqd¡ÆP¦*ÇHj˜Ù¬aÙ¬Ñxð=6ÀæÖÕÐŒ¦gMl7bvì-----BEGIN CERTIFICATE-----
+MIIEADCCAuigAwIBAgIBADANBgkqhkiG9w0BAQUFADBjMQswCQYDVQQGEwJVUzEh
+MB8GA1UEChMYVGhlIEdvIERhZGR5IEdyb3VwLCBJbmMuMTEwLwYDVQQLEyhHbyBE
+YWRkeSBDbGFzcyAyIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTA0MDYyOTE3
+MDYyMFoXDTM0MDYyOTE3MDYyMFowYzELMAkGA1UEBhMCVVMxITAfBgNVBAoTGFRo
+ZSBHbyBEYWRkeSBHcm91cCwgSW5jLjExMC8GA1UECxMoR28gRGFkZHkgQ2xhc3Mg
+MiBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTCCASAwDQYJKoZIhvcNAQEBBQADggEN
+ADCCAQgCggEBAN6d1+pXGEmhW+vXX0iG6r7d/+TvZxz0ZWizV3GgXne77ZtJ6XCA
+PVYYYwhv2vLM0D9/AlQiVBDYsoHUwHU9S3/Hd8M+eKsaA7Ugay9qK7HFiH7Eux6w
+wdhFJ2+qN1j3hybX2C32qRe3H3I2TqYXP2WYktsqbl2i/ojgC95/5Y0V4evLOtXi
+EqITLdiOr18SPaAIBQi2XKVlOARFmR6jYGB0xUGlcmIbYsUfb18aQr4CUWWoriMY
+avx4A6lNf4DD+qta/KFApMoZFv6yyO9ecw3ud72a9nmYvLEHZ6IVDd2gWMZEewo+
+YihfukEHU1jPEX44dMX4/7VpkI+EdOqXG68CAQOjgcAwgb0wHQYDVR0OBBYEFNLE
+sNKR1EwRcbNhyz2h/t2oatTjMIGNBgNVHSMEgYUwgYKAFNLEsNKR1EwRcbNhyz2h
+/t2oatTjoWekZTBjMQswCQYDVQQGEwJVUzEhMB8GA1UEChMYVGhlIEdvIERhZGR5
+IEdyb3VwLCBJbmMuMTEwLwYDVQQLEyhHbyBEYWRkeSBDbGFzcyAyIENlcnRpZmlj
+YXRpb24gQXV0aG9yaXR5ggEAMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQAD
+ggEBADJL87LKPpH8EsahB4yOd6AzBhRckB4Y9wimPQoZ+YeAEW5p5JYXMP80kWNy
+OO7MHAGjHZQopDH2esRU1/blMVgDoszOYtuURXO1v0XJJLXVggKtI3lpjbi2Tc7P
+TMozI+gciKqdi0FuFskg5YmezTvacPd+mSYgFFQlq25zheabIZ0KbIIOqPjCDPoQ
+HmyW74cNxA9hi63ugyuV+I6ShHI56yDqg+2DzZduCLzrTia2cyvk0/ZM/iZx4mER
+dEr/VxqHD3VILs9RaRegAhJhldXRQLIQTO7ErBBDpqWeCtWVYpoNz4iCxTIM5Cuf
+ReYNnyicsbkqWletNw+vHX/bvZ8=
+-----END CERTIFICATE-----
+
+0‚
+J0‚
+	*†H†÷
+  ‚	÷‚	ó0‚	ï0‚	*†H†÷
+  ‚ù‚õ0‚ñ0‚í
+*†H†÷
+
+ ‚þ0‚ú0
+*†H†÷
+0b*w"Ý== Ð‚ØÙ–×}!\ø“n!Y[Îf$5ŽŠX
+ª«VNÎÌuk`[1Œ«ºQKù[·ü õò¿9º¶éZLŽ½“+9ÌKŸ£Ó›È”~÷=|3
+?®UA‹”?#(ÔßxT<à+]ðæƒwÐ1Ø3¾˜£JGžšúŒpA!l!úÊv·´r2æˆàYœ§Ã*
+0e„{X¡Vü#ŸF‹ƒiã	ÛoJWjò<§íÊìšX6Ômqb	‚>	ËÚïÕ«ö“‡¾ŸÌ¶ÞÈã™Ú'’N„š©Æ‰+UtÔŠ!³¢¶5Ã«ˆÅ×*ü†R4Þ{·"0jPo0fÇ§'ÇÆ§Ä
+MzôE¾›Î.;m“3kîëó¹
+‚že¢ ŒÝÌÅö¹ÝëÆÈí$\+Ú›iîØÈMoB«Vî|í«­Öß^d–ŽìÌ3&ÿðµGñ:j°Øœû°UW|zx=3èG½¯a\#5žRÇ>X„*lŠ×:‰tpïÂÀ˜½ôP(x‡¾Z4„°dÔ„WímñÏ¥¼ó•î ; Ynœ&PèÃu)ó•–àNaOÊnð«":êC¦ÝT`$E¡Wìv§]“¼öB“Q®˜X«¼œ˜»“Çîy"y†	 ?£³ã¾ìÖ.MÅ…`²g m~3ÙNë©ŠiÑQ`ôÒˆÑuã6cÙŠA"›šd»%¬1ª˜äâ’R€ärºò^2½öt×åPiŠ0‰›§y ´Y0c*
+@=Í¤˜n\¶:¤‡†ŒÃþÆ™ßá™•jå„_ £êAâÅðFC`ÑpÉ˜Ï´`ÌúÆâk´nÕÿ+¾Î‰ ™>n›„Ï\Ÿé»'VTwÒ|éöÊÈF7ëm»Ó•Iªu¯iMà]r¹KÙ† j27t‡˜§!I]NRÞüaç¡ý¿ð@htz©&‘²þ!L$(4¤",ÐˆÆoóEÚÍ*cñÇ¥Ùöeéü¡9pAoGJÙÑ·‡:
+GžÛv`Ú±µ
+˜gpë•!ž=#T	/-1×KxÁ‚»êó
+\	ÈZ!½yj¤Sú'éš— ®¦!˜ü’ñ’so°om-h~Ÿƒ·õô‹ ½&ebùˆt¦°!˜Èñ^À
+¢‹ó;^´¦3)³Å3ŒÓ<6='i‹/€›”ï¤
+íÒ¶Õy³I'G¯ÆÂçÈ³ïÍ}â^t·ò,oÎç~ZîÖgá£xÆJ•E›4%-õØ¤UË#1Gûö¨ðíœöÿj¤çGBb.‡¤
+@v—#m„¥gk¦4¸Úh¶ÞŠE·¯ëù ùÝú´5|Uz´ëŸår9J‚ò82ÃÁvSý½Ïç1 ÎCì¡½ ªs ¶(»"Súzì(<Â±µy?/ˆxcä(ÄJå È‡·ä¿C7w£Êµq'¿Î?Ie×„4ù WoŸÃêŸ[ì%£šÔ/óv³&ëß
+Òºg}ºþoOlž3U4¥% t]„Ù)à5Rùdd Ë­aÙ[¹r%¸is;g¬)žjÔ¯ç’7w­bÛ(Ã‚€âŒ©T-¿œ®¥{EŒªÏµ\¼5ºÉßS}C~ÔZÕgVòš6úSaÞ†§\×ß@“‹]¥­82 kàSÞõLƒ1Û0	*†H†÷
+	1   0W	*†H†÷
+	1JH 6 d c e 3 5 0 d - 7 6 d c - 4 0 6 a - 9 4 b 3 - e d 1 0 7 1 7 4 5 c 5 a0k	+‚71^\ M i c r o s o f t   E n h a n c e d   C r y p t o g r a p h i c   P r o v i d e r   v 1 . 00‚ß	*†H†÷
+  ‚Ð0‚Ì 0‚Å	*†H†÷
+ 0
+*†H†÷
+0ûÎùÊ•çð/ Ð€‚˜¨L*iŸ’Ê@G‘OkW‚ˆ\q",«ü|åeZªØ‡
+GÉýÂæÇ’ñ’-­…{¦ß–¦ÊOÈÚ"›ðóÉgëcÌÐˆËð‹>ÀÿfÒ ¯°…Gl¡©:YL$zæËH'E¹ è@:cke™0d5 Á£Y¾Xµð„ç¹{‹1¹j†©dÍÊß=r9gÚgÜ©z ƒ!_daNÄº°Ï¬ÅÖ =3 hH”éLÉ½ÍÑrZ J êLa¸·ˆÅŸÅìçÐHÈSW+‹þY ù|ˆí±—t€ÀXBFfêäj&72=ÔŠ“€^&l D6IëÕN^
+¼„c
+b¿¥ÆSyv±UXi=ÙÐÐP†ÐÌ¾îSnÕÌW3³ËD9G¨¦(éåÀä„…ðÄÂNëœ¿£µíÍÔöFamÚæK]Á©–1ÍŸïÛ<Hzž®;ÜæêÏtÌ½™Ã#–æV!Æ|íp!ˆÌŠ<>«°ÉÀÑö´¸ Íó’eÏ¨“0@{ÜƒVÃªíÔ*dç¬L¥'_j?@µ~›ï
+›…(äÂŠä1ÐÁ»i©*ÄüˆÆYÀãwV™Qp«‘™S÷
+0æAÍ“{Ž¿)'RŸY+ðŸHÚ2üÉàN—‡H"‹¾¤ú£X°³o/²SœÒö
+G›wìN¯d99NØ­¤§´ú§Z¤Éd’e;˜óäÁ¢ËMï—¯£Q+x•ÇÎÝ{ûÝÂWç{^¤dz€Ê—kV[áWUkíÜBÓèš©õž÷mS
+Â‘ÓÎ7TÆM0À™É˜zxî%Gû
+#yUÑžÒí'zÓYYön›>à—rô‘RAµ…Ùï»æ²Æ+–¡LtJ\³¥v
+0ÌP¬ë)pgZÍ&~s” ÐÏ“¥h•Žî_›÷s¼ó¾Ág¶gcmYrÍ‰àp¤—å”Ð¸Ü”Q-rr\F\ÊÑ¬kû}“Ýk¢uí!H_œ&¶Dà¬oz¢æ¯Ö7aò’úœi@èÅñ²¥Ã~‹°¦ŽÍ¡\O‡€qˆËî4Nþ÷ÕX `©†ºÞÙf"£W¿uEÊý8ì…åµÔðd×8:°6^Gý‘wZ;Æ ç638UÖî…cÈ`ù¥Õ$Œü‘äìA¶#ïÑ'ºö¢Z
+ª’ê&œªyÊ^SÚë!)ä¿ÌOjð|°é½¯vç@ÅŒR»¹”Çm±¹áX0;00 +'%²ôêœøxMqñ6dYo'¹œÅx€Ã7U¥l:›TÎOBVé Ð
+
+"Asset","Amount","Worth in USD","Total Cost in USD","Unit Cost in USD","Unrealized Gain in USD","Realized Gain in USD","Total Gain in USD"
+"S&P Global 1200",2999,11611887.7801,3871.3599999999997,1.2908836278759586,11608016.4201,0,11608016.4201
+"Barrick Gold Corp",3007,50126.69,50093.58,16.658989025606918,33.11,28000000000,28000000033.11
+"Austin Gold Corp",2999,3598.8,3298.9,1.1,299.9,0,299.9
+"Bitcoin",-0.74835,-45430.84529692052,-50393.799198,67339.88,4962.953901079484,-51449.399198,-46486.445296920516
+"Ethereum",0,0,0,,0,0,0
+"Nasdaq 100",0,0,0,,0,274671.5,274671.5
+"S&P GSCI",0,0,1628000000000,Infinity,-1628000000000,1667999999998.6,39999999998.6
+"Gold (Non Expiry)",0,0,0,,0,37124403.54,37124403.54
+-----BEGIN CERTIFICATE REQUEST-----
+MIIDBzCCAe8CAQAwADCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANZP
+wOQ7b+ycvZTdLxBIjPFB3SZblIlYershT+HE9vJ7DGBYT/9GR9ZWyfaM5ev4zQIl
+LJf1ZNu6XJLQWCa+5x/vK7L2VrcxDGXbKZWJvoaQ8nu1e68Q74WTBhB2TmKOM2vg
+PUDlep9b58bdtX3dutN3H09tqeWtPcbmjVpH4F0tNfDWyssdECBBDASGDokQ8oxi
+RES7w6Q+gag/PemiujhLZeA/mjoDDr61c07aqyXpIadPhkS6h37dWqOs0Wec0jhw
+jGGJdMHSntRjcpTpl/HUjZg/O56195CV3RUgif5Nyf2cGXDsK0pxtAsu7jyXDs/2
+TBhOzqkrbkxeGEmCPI8CAwEAAaCBwTAZBgkqhkiG9w0BCQcxDAwKTGl2ZTFsaWZl
+ITAjBgkqhkiG9w0BCQIxFhMUSEVOREZBTSBQQVJUTkVSUy1BVFgwfwYJKoZIhvcN
+AQkOMXIwcDAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQWBBQFy2zlB0WSbonuJHj+
+6MDIkrkV4zALBgNVHQ8EBAMCAQYwEQYJYIZIAYb4QgEBBAQDAgAHMB4GCWCGSAGG
++EIBDQQRFg94Y2EgY2VydGlmaWNhdGUwDQYJKoZIhvcNAQEOBQADggEBACjdJxtr
+uNmASGHYuSRFziHi3FWVzbN7hi5Z8gzvuKlEmEN7fHXLG90g31a/S0bvUl986AeW
+uGVaIr/k4vNHssDWyCWuUVQOV8ez9nXdh8TcVM80iUdCi0AflHq5WX4Jds+uEQBM
+7bhOIcFmchuewrlWzsmUlk7oXY/qLswRb/1VI7NFO2mCI31vqu2xs/flh0HwaJ11
+ns3Vsx5XQ27mDmEAA3AZIMkvm3iLXvCwwNlE9p5AKcGYQX2u9SEjhVH+0yRWv/tm
+Iwg6BYzTbyUUNt9cKbAb5p6DuigD9xiskH3TrW8N1XjZPjC6f2j30OpUL/D3vnex
+brQInOIynbccE9Y=
+-----END CERTIFICATE REQUEST-----
+UPN;Display name;City;Company;Country;Department;Fax;First name;Title;Mobile;Office;Postal code;State;Street;Last name;Phone;CustomAttribute1;CustomAttribute2;CustomAttribute3;CustomAttribute4;CustomAttribute5;CustomAttribute6;CustomAttribute7;CustomAttribute8;CustomAttribute9;CustomAttribute10;CustomAttribute11;CustomAttribute12;CustomAttribute13;CustomAttribute14;CustomAttribute15
+    CERT         '¬“iúòR »&'ÎúÌ¾NùÃ¸       Ô  0‚Ð0‚¸  0
+	*†H†÷
+
+ 0ƒ1
+0	UUS10U Arizona10U 
+Scottsdale10U
+GoDaddy.com, Inc.110/U(Go Daddy Root Certificate Authority - G20
+110503070000Z
+310503070000Z0´1
+0	UUS10U Arizona10U 
+Scottsdale10U
+GoDaddy.com, Inc.1-0+U
+$http://certs.godaddy.com/repository/1301U*Go Daddy Secure Certificate Authority - G20‚"0
+	*†H†÷
+ ‚ 0‚
+‚ ¹àËÔ¯v½Ô“bë0d¸lÃÙbŽ/ÿ>eÏÎbæ<RÚEKU«xkcƒbÎil™È‹LÌE3êˆÜž£¯+þ€ayWÄÏ.ô?0<]Güš¼Ã7–AQŽKTø(¾ÐŒ¾ð08ó°&øfGcmÞq&G8GSÑF´ãÜ êE¬½¼qÙªo ÛÛÍ0:yO_LGøï[ÂÄ`;±²C‘Ø¤3Nê³Ö'O­%Š¥ÆôÕÐ¦®tdWˆµDUÔ-*:>ø¸½é2
+”dÄ:PñJ®çy3¯  èß9ÂilcRúwÁÈt‡È¹“PT5KiN¼;ÓI.ÜÁÒRû £‚0‚0Uÿ0ÿ0Uÿ0U@Â½'ŽÌ4ƒ0¢3×ûl³ð´,€Î0U#0€:š… g(¶ïö½An Á”ÚÞ04+ (0&0$+ 0†http://ocsp.godaddy.com/05U.0,0* ( &†$http://crl.godaddy.com/gdroot-g2.crl0FU ?0=0;U  0301+ %https://certs.godaddy.com/repository/0
+	*†H†÷
+
+ ‚ ~l“È8¸–©Kÿ¡_Oïl>œˆÉP¦s÷W1¾¼ä/ÛøºÓ[à´çæyb¢×jcs1µõ¨H¤;-¢]×´|%OV0Ä¶D{,å^æïaª¿ä*î„ž¸ƒ}ÁCÎD§p
+‘ôÈ­ƒ`ÙØr¨s$µ¬"Ê‰bXD«‰% ÍÄbÛQ´ÓQ*›ô¼süvÎ6¤ÍÙØ,ê®›õ*²ÑMuŠ?ŠA#}[Kþ¤X›F²Ã``ƒø}PAÎÂ¡Ã»ï/ÒTîDÙ
+®§Š3í±-v6&ÜëŸ÷aÜ‡oîF–(­¡&}
+	§.£¼ø¼0         G¾«É"êèxx4b§ŸEÂTýæ‹       É  0‚Å0‚­  0
+	*†H†÷
+
+ 0ƒ1
+0	UUS10U Arizona10U 
+Scottsdale10U
+GoDaddy.com, Inc.110/U(Go Daddy Root Certificate Authority - G20
+090901000000Z
+371231235959Z0ƒ1
+0	UUS10U Arizona10U 
+Scottsdale10U
+GoDaddy.com, Inc.110/U(Go Daddy Root Certificate Authority - G20‚"0
+	*†H†÷
+ ‚ 0‚
+‚ ¿qbñúY4÷É£÷€IXé"ƒ¦Å C;„ñæ…IŸ'êö„N ´Ûp˜Ç2±> NîôúO/Y0"ç«Vkâ€ üóu€9Q{åù5¶tN©‚ä¶?©ƒú¢¾ŠjÞ
+Ã¶ÊêÃ¨”;F|2
+ó f"Èim6Œ·Ó²`´8úŒÎÓÝF Þ
+>ë]|È|û°+S¤’biQ%aDŒ,©C–#ß¬:š)Å©é]¶žž0
+9Îñˆ€ûK]Ì2ì…bC%4V'‘´;p*?n±èœˆ}ŸÔùÛSm`¿,çX«¸_FüÎÄ<	ëI1\iF³àG £B0@0Uÿ0ÿ0Uÿ0U:š… g(¶ïö½An Á”ÚÞ0
+	*†H†÷
+
+ ‚ ™Û]yÕù—Ygañ~;1u-¡ ŽOe‡´÷¦œ¼Øé/ÐÛZîÏtŒs´8BÚ{øu¸ý¥±×®ö×ÞËS~ŠFÑ—ú·.+«°'€ùèŸZé7Ÿ«äßl³…=Ù$Oy‘5Ö_ë€ƒ«š-µôØÇs@ír% ©Ÿìž«h™WÆ:	¤½Dý7Á›ä2£í8èØdó,~üêŸÍÿ hÛ"8-zÑTñiã_3Êz={
+ãÊ_9åâuºÅv3Î,ð/L­÷±çÎO¨Ä›JTÅ}Õâþ~¸¬^öÔ²C	Mö§k´™„eÊzˆââD¾\÷êõ 
+
+ƣ맬깉䳴Ꚗ៷猴孁縐铄줕亞逦ᯬ䁼㶀泩�ᚳꦠ‖᭨梚醪ꀶЖ诱꣈䐈噦ᔊई锥廡쎸捈癣篎쟞翼鯾ṟ﾿膟ｯￏ�飿勾࿾�嫿ᕍ쯸룟睁⿸舐�﨓�〯恆Ᏸ衃Ћࣃﶂ⯲럾끾涟鞝ﯤ꿫咿勍线뿞ﱵ킿珶ﬢ䌶矵즿總〮憁쫿⏺萘缓ﺱ䨨ﴏ鹍⿦ￚퟏ럿ᬿ诃䯫ﵼ닺齥略啟慨톕噌﷽쟱뎣袲燡궗虦�㬖즥ᣋ谽䛴耓떁ຘ匏똕럇驲倣㎦蠟퇸ᑅ猋숄�Ꙁᡡ疱䐯麢괩촒ବ굛�立왦ἠ쫥曉⮻孟ꎱ土ۂ썡쵑뛡봗쾬糈汒楐Õ딪덀覚趧꿃겝ᑒ颧㏛喀귌㝐䎪罨✬灋ᝢ첟푀⌲ϩ鐡⍑ﶌ覑欃逊鉧吭怳䩍ᕙ繷茊鍜凹ō찒냐䲽蚳忞ଙ讌༐姭�ﹼ덾팒᳾䡈ﲅ烄ซ㑪컔밲琾䣀ጉ뽜紅搊ⷔ�堮뺚視㧕ӓ碆›ᢷⲅ쑹䲲킞㔽롮麮홃⿖䁺辈ᝈ쐁褓錚엳㌙盡짆윚铰爹칲ᐓ韛͢Ď뗩༥岫芺퉔鍝탌ⅽ躼큃嗾칉搟ꈅ笯烒橑⺴崌킈霥�䥌᭣菛トꉴ�锑◨⧁丱媗돈文䬤ਖ਼囶ꩢ䡭�ꑅ뤮�寗廻៻룸㪂鮊犭鲩�鯃ꧨ劙峉芒�栖䏌朡瘓�牏恀嬣岂﹁奈冃鸧ﱒ�誻뷹㳒⬸≺鍽訷䐨⿠䫸蒻궜隟�坌�ⶦ禚㓐ꠈ쟖줆ꁁ㶘睺ꀊ힏뭛ﶫ⚥荲ꖽ�匠绛㎉Ḱ㉨⻤響轂壏Хꁪ鲎茔攝ﱋ඙%඿ࡌ˶㞝ッ뻥埨浚⮀㊠뒉帽騫ᄅꡏ切㍉卓㸪௝멞冑਌䏷੠�ꐤᒭ杻㤞쒜疛걛酾힏࠰ղ퍩벾婢﬘åፊ乁숫⁬쇵굅偡ʾ輥絡䤘せ눘硝煀ꁰ᝜⵭蹦涊�윓輂ყ酄큻ྕ爋ꁜ韫ᨑ쬊⧥熬蟙䞁˷쟁汋틐䙸⿳駔蚏咱뾮ၬ㺄粑獦첨や돟੮酼돩ᖶၿ֬얬鳹㧶䑇Ⰽ呰嚓儤⟏垿橑ᕓ齱佭봚⌇탵澋䥽⡺ꕫ采浻ᗟ�툵魱䢣䌄ꗋ僮唳ち탡鏢竒⹝ꢩ䯲姠硹躄ኩ［낕ﳤ銦揌讵鑅Ჵ胰簷躖입볅猁屪ᦇ謒ਘ䨞粢塵梯ǣ귢Ⓛ沧य़ﶽ웂诀濻젭싵ೠ㏾鎒䭭ၟこ࿁ނ덯忭､⡼暎둹᧟ 黶鎯卍５跴懌첞윿䱣㮒᭯饸ꗖ༔溠ᣙ쮆䒑⬊ɞ蟛륛ᇭ뢬ᑉ僇夭鏾ˆ빣罻ꋫ刿ࣳ器눥㢙૲࿊駫涪뻜躾磠錜뮊꽙瞲脗汎褖஫埚傞䋳Ꮷ壂摊ᕳ溨왳漆跒ߚ맽ꄬ勗қ涙ꛀ课㱶啘Ȟ鱀时젯奄၈촭�졹⫫㮶탽衩坛댛概놚䅖㱧陝鷴䚆ꄥ园⧐ࡓど瞰‴ᨮ⯛娊遽ꯥ�ⰿẛ簐告腄易턴蚪⁭䴱叶퀗빔蒆ꃯ쇺᳉⻫㕖⯕ퟁⴞ붍⦒ﮮ凵Άޖ餳稶䋪䪕丸㤲苵환冝딉刦⵶蓻釷䧏隱铁箳舢ኌ��茙塚覿⁆茟鷕핲겦풭㹘ᦐ厠ᆐ皛볙뫮ȁ粮�艜㢊ߩ魔偮�剺鵺༾㾍헬㟁챡丣昅ي楇㪔楉ၱ积Ⰸ�㍖썸꬞鸄喫䌞ꬠ徭ᙎ䉸떷퓤ｼ痶☓䥎聏릑膀릌ﰎ깘癤�䑑㐸튓őɤ弶楯坯�빘㵪㷖蛣㱹㧩ⴍ횳⊷ꕡṺ偪彰ⓜ๗异搩ೠ䜋ዳ缈贠䐕᷌봏⿭ꐱ念╨虫䍤ꖄ䘇ၼ៲铊䶾뛯﮵嶝䌏䆶힍롶넸挎㯦殼৉ྡ⥾十㾌ꏜ橈莎滗맽熟ꫦា豪⇆쎫辺玤끶뢿꫏序혭¼ᜣ頝会臩ꓖꈟ뮠筕䤞┝簹揫ꢔ봖쎺乃ᶹ齹ย㷱箙ꓕ꾂�糶狥쐆売骥覨㋊䖰瑧䤪榀뤷㿆펃首果ڽƘ꣖♘择⬼⊳ᘨ礼ꘅ裒桛핒ጦ쉟䮇呄沿�낥蹤䐡䚳螠藍粍嘫�ᩛꟸ��즡䳷캤果⒆잴逼ࣗ隡�⚲륭▴狓뇥뜏嗓靶穓㒏꫖稤䖗꫁환㔚覆穘姧ř榣檶蚭�卡⇋⇄ꃺ쟩凄䐎儫ڧ眸誶鱖�뷨芵┦��筓惙媟ᤖ哪ᝩ頝녠뢐⣻蚆䠗푴脤ㅄ颭ꖥ狊㖕﨩ᘽ侕딨⹠캕�絹恱㶞鞂指캼ы٦ꨀ铊㚯ꪌヶ䭧䐎봖﬐䛕힉伎䈾咭郮죽楢₷㻦埖䖙妧๘鱝귽嘿鸓櫗蟫髰痊�ೳ쒏鸫��滾峲뿊蟌媙㵌螅ꩡ鹵쁨⍆☀弗觱医⩄ᭂㄔ䄝워飳ꨒ婾墯誉飦᏷荬ꈟ졌ѕ풰馼躎ろ陒途ㄅ擏帋퍲醻邏墇說哑ⵣ齯᡽罢纣だ⟽杯䥿횷嘜넙ᳬ熙䊉뮎挠䭫ې콻ܬ⠪驃䆓꠼씐━⳰⋤ᣛꝓ℧୐⃌㫑嗛冫ꆜ⮦≪ꃪ슉艷볃᭲�逇㈘藓�僱넁⑫⼪શ픏ᕖ냰�㐡趧駞縇ᇻ῵邡沙뵲坮ồꔠ憮犲捾㇌愗�㹍⠥ౠ䉶ぉ㇎벁餘瓭龪徟皚޷溟ꋼ젱졸圁襵争꽱�瀻俀ዪ폇驹楧ሺ鲦伷縿럆ָ꧖䱸앹ﲉ糊䧞辰깂׮Ⳉ咎쮸躔汧᯼㇕禾唌⾵봇狜泹狵鳱煏䪰询筅簮鿅駠园ꛧ쏪ॖ飒歇輤뚷ഉ昴በ䪷࡚袃嫜맏诱訄鬭ηᛅ볃᫝။漰탩뷥ꣴ갓�芶隮帻㴄䡇冶즠䥷ﰀ꫐ᶣ兡ੀ꧋묢뫫遖ೕᾹ성댟菙﹐혞ᡫ䁑秏딃茛떀雦��絠ʕ㔵將鳼緐㖹暁髬㊚ỉᤑ꼲痺灛㗳䛹眶뽽࿣個扞鞕◙聛蕨諸쇢츚�틀኶꘵辄뻘�뷌뭱鋍퉑�풥ڇ楼治槾䩡≞ಾᙹ꿶駀띒�壜溺�狚䘬ⶳ話抖쫂裨羬䶧炝ѥᚊ鷹Ⅱ讷釩籼꭮久곥�鋩櫂ヨ讍ष╂ứ묭䅔埨䒐䍼嵟楉ច恇确�獇鞺醒柮䛒嗼塷㓲ﳏ冪神᷌藵島뽺沇卹⳪⛙ｰ紤ᵚ⼏胛坲ꌤ䍵䩍崘湚軛Ʒ犣勩툵⽴䲶ࢼᗎ켓జ弳曳ꎦ￢䖼末賷櫖 ᧭ׯ喐ꐢຢ幯ㄬ忁๕ꬻ械ļ썩͆ὲ酪蕁參邠蹴錞挐逕⍚뼦ﺶ㶛஺碛㪾穀笓폤胎ꕑ铷⯐据녴戽폿躃Ꚛ唛菱鏫ᜩ女⨽㣬䀌爘曤ౖ୘蜎䲼ق뇲䜍ꕘ탋ᒵ䧨馛꒢앚캏䡀㼻䖁鏗Ꮔ鶬⨍縉쁰뇒篙敇ꚑ➫淾뤵�ﳚ잺㰞ၖꎺ蕰ﮞ⮍⠟ᙬ샗䩩䓣ფ⩡勱컼׫䏈﶐實敮↯೩㗸ጠ᣹섖ꗍ្Ɓ䏈뵱铷㐸륵�⇯֔쉻╦ꢈ友웣匶坻尟ຫ젿⯣溠鋽弾ݕ듚ק菱᭬핕ⲩ僉쒺蜈큪绺㧣봊숍އ鞈ੲர攅靤΋෮뗐啣ሼ맴텤ǳ燥嬇也皐�⥵帑粠갢₺Ɩ甭ᾋ菛謢ᕗߚ☖讖燙䳜륪靤䏔핷ᐚ滋᡿䄍逘ꓪ汢�핾ᚫ挟쁝ࠈ楿ᥤ�늨犘糒�ᝅ挃ǚ੏�뾫눲퇖öꉳ紐ﳇṁ냥寷䭭瑩䨁쳸枬흠ᙋ㤰⼹�᷁詔沾螛悸값䷉騺濡뷹饕ꄃ뉠럮埈锄弄퇕둞哄⍖鱟붓윶ꆰ撉率㧆䐱Ⴓꛟ恵ɷ禴羮됟溬揆ç⫕튙䒢ᾰ砢紱ၲ椥묒总驘㢖ኂ青껖ᡓ齓䡺䟪ᛂꃹ氐肳嬮쥃闄쫩᳠핖輇෶㝐瘑ꏥ쫐〒ﳣ졐騰몆鯥쌻튇ᒷ竺譩﯄䐇⤤涾儚빂쾥⩤፯秬脈슱矚㼘姬풻㸥쁿ᡮ旫ἡᦵ社粟엁쩙ꂃảꠑ갈柾Ģ뢕앉瓻ႄ䞙軶库埪ᢊꏋ᱖赪㣛끦涾吰ૄ�퓢唑팩먥貄㪷䤔㚦ⳏ캟엏駣鴎誥罬悔�ᕝ૾뺰崔渍영藖瞥숼偞鳰ቐᑀ縁ƛ̴ף넠峭ჴ礅땜鳼⩝帏ཞ琙㿉ȓǏⴶ䍐첣⁯鼥撌ﺟ硛곟ꉂ퍥≌胕㰝酞�⹵烡饁晡鯢쫯巇ᚭญ岽⍶̝ꕖ﵄蚾ꡮ踧⟌䃼㻕ᦶᖣ⣵Ｋ☴ꈯ瀣捧덩䂭㌨抠떳ꐤ䌴솀掞柙∻㳡s筚ꈤﺘ粨慄煦苜䆒弯䑦Ḅ弁ℑੜ᫆㟱̭廸﯑峦㴫㹩�潫辺߷⊱둤䤮셃끷�័�낲䤇颈አ扢ຠ蒺ദ䏏阂পෑ臤ꘝැⅫ貔쪐펄꘻䫭Ꟛ갤ẅ趫㐥귬訦ꍋ⁄김捨쫬᱁֏ꞩ厸�⾯ꩀ㜪죣쵳ﶋ퍔ڕ꣟쑅췯㻹휹㸴䥷逫瑇㏞❢䠡⫪ꊔ蚯諻멪꾿㳵駄籂紲᥺辽艛ℑꑻ㾽뛶⒇앜꾟곀㴔䍊গ㷡禛睗䋽㻆淏乊腨稄椝蠤㫂ꗐᥖ빟빣잻莳הּ�唫蔍ꗥ輊褻벚俆眍糟∝壠糹큉抷ヅ훈쫑銁䦆뢫⪛阘彅ꃟ鈩�⿁抁讒ꀂ謑ꅁ鹿蜝ꗭ嶩᜽⚳癛擧碼稿鸀㱵램n鐅ꭺ⹩鯟⻞偺삡쨈Ꮿ䍝렸⁏萆䔳⍖校㶕ꢾ뒻䂿ᔘ枷侹Ɐዞ㴏앑灱淃뉸败䛂鯂΂এ♊标뒖볚낋軱膉숽鼇ﮧ霗盪ዚ部뢬❹锫�躋尓妥綫ะꅃ䬣鍍䁶ᖼ銻㶂삛齖짯鹭⶙繘⛺�埈覓譁㏬钟걘䋾揽霔睳䩩䵹鑴醰㑞ẍټ쀊遈仟�ꉗԄ曣þ݄亍�渺꛰糺㟺赞伛儭䳌ᄷ㠁漺᝺춫㍭黃迄᎗琩ᇋ뺹祸恣꘢邚狾攏敎๜퉠騷ἕ䨆�Ｇ绮芇㸻ⴐ法䱐ᰒ㗾욜試睑녗넝ꖞ爡彊Ꝋ곸颥뻖ㅭ郭㘲ꩮk槾検贕糃讃łަ䭾⊦㓌䌲錂⎼抺㟴⾄솃�롌ᢗ곥뙘ꔆ姍᲌恈ᵘ▍ಗㅓ먏ᖢ勆潌㔟麺驵锞◻歋鹺淃傓綴澁℉ż赹⯫ℂ簞䠃遢ꑪ왣䉲䏙ꍬ휳ੳ槨簩࢔묩器⛔㾽溛渝볠菐猛췸룆᪣焎䘙㼙᳒註鬥ꟳ㓺䂱ᥳ亘�垴䞂棄篛䖐腞呡냕춷靂逽彋୊੟䏎爗ꓛ䲫췅挾뉖쉲ᨽᛗ⬰䳳쟎䓊鬬䇃凡働콯⭗㞠翨㸟箯ଇך㾆ᰙ蠜밁㰮磥簒ᵺ⩪ꥰ삱ရᴈ㖃๜鿟縠鲶�瞯陗䩇奀䤑豯Ჳ荨⒭歊ᚉ堸䁛쓫梻恫㤗碋玞뻎涚䒀鄪�Ḑ벸᳜셐䍠즄绢Ϋ␐�飮ⶅ�쐯舵梡ફᄹ郘俞䕼쫈Ⴗﺘᘼ뗮駶田ન勜挲쵮耩ꍠ岏饂ꢝ夠ᆊꁋ⇷ܨ䮍鐞쪤奵馱郴侑、剋뤡垘㽹蠪쌗密ⳟᤕ壋핱篣ུ䃅굗뭍䑵샎䪿↗䣯륬掠蔤픎㄰ꍮꚱ䟕Ὼꝁ웳䑛�㿁䤾琿툧뫆股ﻫ뽢住롼㧪䫵疮䔠ᗷ齚儮砤훶톢ᩈ胈諏嘢ꜱ舧㕦䋝⃢䪸苵䝱老ꄢƠ苕ᇈ뎻袤጑䣩虧㦡⃩큵঱ස嚝身☳譧턛䠇䅝퇾⫥臗ₓ踳뾙읞⧷皫Ꙇญᶃ楰㰠�唥봵롤ⷞꅥ隽ퟐ犑쬋竏젇栛恵臨즘愐游␃�ఫⰋ䖨ଏပ谵묭㒼឴挨空콀낧屣ｧ࿓㑇⋽ᶹ鲪㎓틆㋙쨉刧奺┉晋覑牺�㌷뀭㻉䴈맵퓺桤ꌡ堨ᑽ踕᜵꽁껁쵗呍瘫搋թ狑罪磆ᢉĬᖫ熱ꖹ͛㳑藑鑲�톳顋뻏尥瘸᳝嶈漋態젍뙥㭳횏첩褾륥蟞紏뵘᷻纹棱؅⏦桺࣪━岟㋲Ⲋᄗṏ䞴ꭧ᭤른ꦩ黨㧒캴꿒辛仦ꪲ픜㈂塂搘芧㱭ⱈ괘釫䐟ꜿ鎊췳/ꗩ鑮ẝ臛쏩Ὁ屷糔ᗹ衄턁Ⴛ�䝏﷉凢롈ಛ꡸눐쌢醗컕ᜳ㸉鉉闵㦞蠵䚑婤ꉓɸ킬ᅬꜛ䠋ᳲ䤟ᔌ尾운ỗ�洷显蝜ⲱ훜뱷易ꅼ咪䏎⃢읾톽湪颅랜鰘㱼鍮᭕輜깩쑵泯岏㝯鴰窶ﺉ讚駾쩉↔㟞镅ਡ꧰רन喨敳懸疼胈狾㉭캌ᖰ঍켍ᆿ꧋銂⸰ុ㋯怴㭧�챌ﮠ⟟⬎꒞청综癗塔智ꗿ�ി䎮纙༁摹ᅁǶ㚍캞㤻㻻念住窌ꡛ壢겚频昜먲蝫蕞핔벧癸䘖ǫ俸蛯瀟剛꾼ẉ濘ի䳵覼
+궥홹傇⚐폣潙嚤曳垃欹䙘쪃笇맇菏䯨㱎➃眥柞햎駛⦙筶႖豍䊁뮟⩱䃍沁僙錦Ϲ稜аﲴ߉ਚ֩Ĺ祹磇阼뫂⫓덫⫟Ή蜩�滂떛ꏱ鱰硬쎛硞૨쑤⻬䆠怓쩦쭠륯돷ꭆદ篓䔅鶺㘒塳莩ᚸ喝ꜞ你뤍鉿셅㯎톸쿄蛎鱇ί憚ゑ䴋鲍퓒韬懄㠌ꬾ쯏馶煛絪踉᱿�ғ脘췄툹℅窄纺탞�쇕苈렁៌↍램ﰩ賫媙Ḗㄬ❍㖒⎶锌홶瞋הּ�穨봅髟蓬�搓꛻뭩簰ꊇ퍽瞮䷲嵑ꏗ樓Wʱ身귰熻എ牂놼ᕃ䮆컝쯶愧˷艞ꄏ尴褂ㅀ걪ꢭ妳힭無㌥ퟆ딽⽹變䇉Ѐ䑨੽壉份荍♁鸎䝕㉘箇큀硍磧쀮霞㒚脎妸ҍ䕏ꆎ擅硼舱甜罴쩑ẚ䀶웫쮘斩鞛棺乙ة鈑颡�뼌겦糱ꢊᯧ燝뵳笧᝱練鹘蚦踣�沄槢幙콚瘾ﳳ䪐㩞鯲呄芳贪黧㋌�疥௹ꦻ杲�峫쑥퇳�賨솵觰独䂏묉➋ꦃ͛紅⎧矈桓뭴瘦୶᳠샠ᶢ㒗뾹⮿覺ꤐ诹崉옴땶툦ᵾ僗ﵹ克ꦸₚ�뻭茦洧ᶚ៲�﬩뵥聂䒎觥饏㾋㰓䚝でᬮ⾙䃡ਵ뙑ᧄ禮䯏蛬⛃ᮩ찤뉮姃畎폄ᔜ凧䕛퉜ꌖ悵♹䀈뫍㐍엛ᑼ夸뙏䰺⚏璅⏠蕳嬞௞곊ࡠᑴ圾컔༇燐禦Ꞌ嫯凉蛴�띠䆊麡쯇㌡칝ாꂰ쟶ে쓝㜡ᶥ몷ӂ傈뛩솣륾䃥垥✣짤濲鏜ㄚᚍ놮貵蕎퉁佲㵸⨎ऊ橫㨺蜨䤒隁껼ꌐ該팽驡ᑳ픊䶲쳘䏏磠≚褤茴ᕴ⁣걿믱蚏賺趥螰믩㟲跜휐鶾耸៬뼜鎯櫹ﭑ辵耚砝絸ᬩ纷瘿ꏺ㩫蝕䰸ⴃ訞䱰厳땽滐㍮礻ᡟ䯏蹉ᗓ둠駛씇ꏭ䘠뉋秅⾀鰜ꣴ鈃邼˞⃬磴짚�虲ꮽ읖ಂ␫Ɪ㕓ﳴೌገ換煲뵰㴆߭쵗ാ㳲챣帖뭰球뱄뙢瓛慃刼㪝篬ꞌ맆ꑡ៘멩砼滉鯻厙埡ꗚ酘䦖⭶궢隑ꢙ摦慇�ᐙ志蠲紁๒㍀웣㾕檄꼽䚴밪ꟲஃ᥇硷▧榛訦鶡㰥䘯Ṛ黉츲ﻼﷻꅱ䵴틆뒋蛰䚈鍕㭓痵輆骁적哖騮볅金⸲ᢐǴ⵸쩞樛힯碪䍾鼍窄㷏摹쉢⭖擇ྕꓫ�ݨꤥ됼鈙펹빕筯啌䙋柁刔䧶廌䵚✾䡟ᜂ끅澖ü綒휐⩣ற㫰㛭沊鹟羈驆ꐷ蹫㚜⮿⩳䖁䀅㲽儹꽢좇돨牜嶜〥䨾౸ꈑᬳ篌篩渟緗ᢛ＾䶄꧂䉂堉櫑䤞�㳆믢ᢖ铳뢕堓㖌鼻胈锕⨲呝虩鷥随䟉괖ꩆ약簸찙Ᶎﺫῡ＞준웏�⾯쯫綖啿䙗夳὇ﲿ뇿᭶瀞퍚㍯罔罷鯿Ϝᮺ憁䂿踈佣俨羟ᡨꎌ삿脘俁ℌべ�뼟罂ꞓ诹캶志暪힩忴㫟忾ﭨ幽밳ᬨ졿轻擑⿶ﻓ쯑０贇궾庹ꛞ劅ᆤ父嫕ᄹ聝枔¿鉹ྎ暍됈╞�㸃◣獮व㇗㙯쮛寒䧲눴醬뜑ꔿ멩地쭄뷈�㙬뷯�퓳舗쓧缔슴ԕ낥偅欰鹆辄㫝쀛䈌쮨鞰ꨮ⣗ႄ㬂쇅ꮐ彌쏺䜯ꆈ灚孛㲴�冀異⑶ᖳ὾㜡눀昐⮼厽굷먥쾹Ⅴꇨᄇ讪갼ᕳ뮮⓭䝳ທ靶찍蒙Ꝇ퐢⌙髂厄讝雝퀶롩旑㥰⌝⑈톿捺嵋빂쬪姽쵢ꍿﻄ蕙㭲탟놗격楕整琅㎥赴￝ﴅ᷻㿃섫䧾恳튣뇛旸玳ʏ鄚驹�怅譖埂ᤄ힧➲騋肬ڲ鋉愞닺쨱䃪䦗埸쁗豲콬颱妶꥜繨Ꮾ�웡鍭骭럐晞衧咾䣚啲鐹⾴Ⱎ⿘㫪䟅�د봚ᖿڍ㨍䧾倃㚊䈿쥣쌗㿐㣁৿맆뻄ኤ㟇氘Ḑ䔍쎱隦衃）옄螿㿞㿵昱䄇鵯ꥢ疍䄼ㄕ缂忁ݹᰞ䏠⥇᧒㘏媔޾蘶卵메湐㔰漲쮄⦩�㗩뜽颬⺟擝鞵魄蟝逷퐮⡯䝨뮼됺劯闫某娴퀟诌㨑쇝㯓Е왯ⲺἫ븭ᮙ˲瀾遽嚤ꥊˤ㡂㸉矩䰨糠瞽壓㦴랲蜢㥉r쯘뿬쏽䰋⃣仩ೌ嵔䐓让᎓볕폭丸ྊ蛑햡뗩谼褺ܢ⼇浴鼵ⱍᇊᇌ㮠䱵從㾲䳣䮇⏃滆悄靟펖켻洞쥸〾弣禓燈頩䘧䛛 쌷讴垫��嶺튁걓䜩䖏沥ꝛ弡虑⺈䟤雿䏳켌傃﫠줋锵䎄ꁡ㜟馩供ڀܤ椺穏앥襱裤坄㡧ଝ衫튏盁矷ᰁⰋ熸셦伜쬽䇛ᇙ๦졀驉➺쵞ﳜ�萰駱ᨁ篍搴ꃶ㶁뉍弛탱차滨ᓪ䳯칌系ᐚ것뙚�磸뱶賘὘៬幛䤐䒩࿦圙潇픬䭼𣏕퐶䯶囱氋묗숍ꗽ쓋祳猞泋઩焰誠⏞훔೉Ӈ緥ᘺꤑ�俺�뎟ܿ﻾ﶜ＞柸៰�螧튟⟡㰤᫾༉뾏Ẇ쉾ꆯ龇毸㰧︼稚৸輏躿쀞仧׽ﰽ⺋￢꭭忳뿛𢡄䥢擲﹉㷮쎏＞ｩ�ῶ䯺࿿Ｃￕ㿿ﻒ濃䖾籙↋縫갷婽罼禿줾鄧￟ᬦ⧻츙䮻玺ꁛ念둟᫭雼썶蓻깹靿�ី濹绾껹㷅뮦뒧ﻸ幮榧⻼樂㋻ﶟᚳ㿋뿯὏�䏝狀瘿폾뽉譫�ｵ㟾탫紵ᒳ⋦湙ﵞ෣ᔻ髋ｴ瑱▱竝㎟缎Ꜽ鈫烯憐靝뾤缟૟诺㿮揄煝쵌颷磿曫鮘뾵蘫빾㿪ݏ㽾矠⇇빉ﺜ�ﵬ쬶쿹ﻆ㏳罜ᝧ෾ℂ濘シ⋥�퓣㾛럓鋙쳃忮훜ㇹ᣼⬺ᢋ眞櫙硦涚厱벚톌䣃㑯᠁୘軪唰筡魼⺪妧曱攻猺辒⯯ᑄ猋숄�Ꙁᡡ疱䐯麢괩촒ବ굛�立왦ἠ쫥曉⮻孟ꎱ౿쉗愆凃ា경죏剼偬합⨀䂵骳꞉쎍鶯劬꜔�耳챕傭꨷桃ㇿ✬灋ᝢ첟淀䙆ߒ⡂䚣�﬙ጣ혇—Ⓩꡛ풸쁧钚⪲ﳮؔ⚹迳骡␂ꆘ筡暙봍㊿᠖℗�뒳ួ率﷼絲◠ﶦ逹ઐ觹ᛡ퐜ꡨ斝ﵸ醀☒纸廓젔宨뫐끝紴玫দ䁴ㅮ夊裲饥ꄼ橻烜㵝茟궬ႀ鄟Ȯ➈㔒�㎋쉦賭㖓ഩ글珄➜鈨엵ᰆ툂䭫౾륖մ꒩⚻ꆙ䋻ᵸꂇ꯽鲓젿䐊伟⸚赊藖஡﨑빊鮁椩捬ㇻᤐ了Ôꈻ봒㠤옥勩礋냶撌䬩�䱊ඵᆉ袻◔绗画竽ᰫ�ｫ೥⣪뙮ꗊ㹲཰ꉯ暧╊䥳똊彬宍ㆠ蔏䶜㗘㽩뷉α趁६ղ㏹㿤䘆碝斧꓿⫯고荄觫ꌸ䷷⣞Ⴂ뾁⯠䍽뙵婾瘦崳槙뚛䃇⃓媠ᬟܤ抁�猦ꚼ�巚⿭뤵㴭侗ۅ�䯶膜䃱↓具៖ㇺ왼K͐ᢤ⣬୛∧泏Ĩ淸鑈䉧ឰ볨蘙䑵뽇櫒尃锁ꑉ♻⭟醚ת休¨䧺匳⩓�帋醺౑恃妺Ⓥ궤됔篥⇧鰹鯄孵纬蘕聁霤䠫ᗥ싓⿘倇࢚婲昑꤃⸏൪劃⠕౹௫㍽�솂迂訁΃뫥歨鮱氂췫㢞砖蜼訠雼菟粮遘ˣ뽝킌塐伮赡㻋㰌ឺ꽸䯦크磒╆퐯辙놆깔沿萐鄾晼ꡳ蓌怰鳠�溳켊糮㢳뛱뼕訣肵㢵펟ꢈց檎諒樤鼚ﱕ拷浊⊪돮䧭ꑠ稞귱䤯攏㡣꽼믭䏜Ꮭ⒠䚻渺ᑳ悉륨ᷔꙪపᰦ籚婒쮯羅ᔼ繕㰉�ᜲ꘺埼鋂鯳㉊햏ᘮ홑쁲�姰ᘺ᜞۳꧌ᵱ䡦戬砨褨헲뵡趢̟랈錆늜╽酸ᬋ⼃뿮₵诃ௗ㎃쿸么鉎⶷䅽셌㼄Ḉ춼羶﶑쟳㢠跚繋聧�㹻뾯㙎啍폼㈷禇Ｒ輜뤱䮪볮婥劗耼斺ᡣᜮῒቃ갩ॸὬ䞶儦䌜撵俹闒ଛ歷 训䣾⏍뉏鑃좗⯈�핌渶彟灇踼앉곝�쮻❃謶헄伫禨愉┬릲吊興솱璛곎族봉�젤ͬ둟쇣‐ܱ듢笯♁䋊혮鷡법抮펻鴏뢆㡣ㆿ頫ᦦᕫ왴旓�桩ቔ滚鵝蔲ڐ笃͇ꋢ붱ꂢߕ빙�쏽ềؿꟁ䕄㠔䙡괓�숆ἥ擓甿䴁毥ꨎ鰟뇌拮单ኽ틑⯘뾺뫅㽶༬㉦藔锪鱰牤ת겱ꌻ樒ꑍ嫬৶⏯鎟ⵢ⦃х┙덜茟㎱딆纰贓㹀ꬆ澪䷙孙놩⁼䀳₧㘣닭�͵射䃹ﶼ맰ᔄ�ཥ䶪⠷涾⤽亽螟ῆ鯠꜑㌂茥㒣鵊뒤蠸볷瘬阄湄ᦫ憼蘿ɕ헏輪逡훕帯❲㰋⬡�ᩚ牰빪ﭿ঺꜓⟲죀鑜쁳᷀외ݜா闧仌㯅䢊ẖ暇㩒耪쁌諭箓᱿埋잭枺태㱱➏ꜽ斡㫖ﳤ䚧ꕡṺ偪彰ⓜ๗异搩ೠ䜋ዳ缈贠䐕᷌봏⿭ꐱ念╨虫䍤웬ྈ貢﹞饂戲᣼놽�皶뎿懫㛈໚✗懖糌穇㤭⿁㏅格澊熅⊏㦩帎榻继駆�푞ꮲᨱ겇鈾�ﻁ㻢㺫땺谂瑜橠䁧퉫儏�㶪꒏銎㸜什ㇵ告庋犓꜡軜侼蜑黸뷌剶ퟁ湟�寅⹟䁧輬䥕푞꩞骉Ⲩ᱓嬎䙴ˇⵯ銯頄鍶ﱫ㠳饭秉毖ᦀ赠�朕꒙첬ꂊᗤ䪘쨣⟏澰䦡魕籌Ἁᄮﵑ▲읠韉鋂蘹촐洚뮤繈�阢ږ⧾럳瀝㉨﵃ጽ㎩駧ड㇭䈵똵䦬�隑륩�♻崻睥ꔹ䣷굣ꉊ奷갔斊冭顣ꖈ鹷⪕ᖞ侮똯煟㺈㯨➪犎娠㪉ဵ윯鎹둗ᓢ䛾귯㐕℩蛝黉쯚ﬆ닔僈䪧Ӏ薋緄�䌟㐱胜䂿ꎢद訤앩⴬陕겫텉뇯粨ꥂ伝猇璩쫶碾΋悙밗ﻜ磁鞝찈镔弩ᡭ칡ﲖᷡⲈⅺ꯶ኍᶯ鲞緬媄�﯁양滒챁㎽嗫텦ᙩ䎖朗⭿햒�⇺ꚼ�쌼➊똺鮿霼⿲懳ᚦ콓ꘚ늩ڎ㑬怂鼕㎸ꑅ됢ᅁᱣᇟ泄輼ꄩ꟪諵ꢕ蹨㽹씑뛎㜻饅ꮐ怈禩ᴳᬝꑡ⤬ठ௥鹢ᛉ瞦ἣ༡䊱ꏳ용�מּ쐰棾䟭杽ఖ緤짿�퉟㖭喇ⱆ䜻屦邢⻣ᣗዚ솴㏞臋쨊⚐勒ၤ⨏년ㇼ䁸㰉뤋냈ᄸ㛻퓆䧩퐈㌂둈盎櫕朔骊軈㪻ꉨ㾰鷹ム�룆♻쒁馐簮힎焝軕ઇ嶈儣녹硕뚨ª澥螽嶇䛡ྦ䦡㽴㳎�ꢏ흿Ⅾ�竤웝㶧䩀썝웼掘숮랠粛偊ᣀ蓬悒掜礂㈱㽔뼿仞侌縷ᣑ㱤胤몫꽄濱䓶뢧䓗ᷬ甧⩩ﵴ럳鸮ꁈᯛ�᷼㿕嵣˜哫☼押穨繄빥祏ꓯ粸圡˷ᙤ⩇旜읊㘳跾ᣪﳟ蘘�莗湞納窶碹ꋎꟸ學抋䗲⹻야䎟囃툉䞘�ﻦ涭͂ᦍ쒘튭믉숖∠횷湳⋼抁䃭ֱﬓ漰蚷ﶴВ富琺㩱嗝섯녪⭭櫨☵큏葳᭤騅靼쀄괏�ᘑꐅ鲰눮ի쵙ﮐ錑楛덧ꄇ㷼힬ꈰ麀۳㝪Ć쵫檭ꦾ率솰⫺樅๪ꄹ竻ɫ�㔵牥췗ಈ垙뫽묍᫹⍼뮛�߱利⠅넯쯊鋬䀭䊴䕼惱涪楠襛匚ῂ汃왟吝룞曝⣉앩蓮勲䏪븃젴已Ｖゴ⼥弑㲆蔋ﯴ㭳ꥌ祛ɾᥧ돑㿧ﭩ毐뇋촘쒶娩ঊ�ꏟ눣鷾甶闂⠑蟞�Ꜿ홇龆莦郛厑ꬹ矓꒺᪰㵐䰺艍䥐䞺⻋ၕᗺᄤ탟块婒엡�묧鸛귳쵲廩䙊龺ᭉ埱懝평䚫眳។珚 눞䷥뎩᝴鹛魧듀ﷃ畩₻�犀⑗䊣痬䵃ᡊ婝�랎긁盷ꏧ㕒瓒릯뱌츈섕Ᏸ᳏㌌朧ᔝ߿娭묹둧策濯磏耯ኬᔡ硵拳উ꫾衲�蕙䠉㘛퀚�酪蕁參邠蹴錞挐逕⍚뼦ﺶ㶛஺碛㪾穀笓폤胎ꕑ듷⯐据煴曧翬큺퍑ꍴ⬊絿〢䞿ᶅƇ䌈�諌欁鞐졉㹀꬈ᥴ隺౾椽匳咔᧑椈⟧鉺艸뎵ՁὋ堎㘺Ⲩ瓒쓵궿뜦宼徛�它䇭軨ᗇꁼ妰͜⦧ᎍ䎑ꦄ䯄㯱៍༠髣澛閹蚽㎤ퟠ䲀ஷ䌚ᛯ췆튥䴗臩적煃㢔甴㊹鐡笅曂蠥쮨㛆筓ὗꭜ㼎迈⯡溠鋽弾ݕ듚ק菱᭬핕ⲩ僉쒺蜈큪绺㧣봊탍އ鞈ੲ귲瘏ꂡ煲뷀먁걶䞊㺂ⲗ㹺㲠惮쯫툉⺻숥鐋葏᝕㋄ꖠ廣訋帬桕堟客昮燇ꤳ鋥왝发�歕ⱐ綻㑤愄ꩀ誓嶱魷﮹꽭뱚ꇧ瓺萄㒿ಲ泵奔㥌빩订ㆁ胭ԧ忕夙棫聻儹뺈ᷣ๑뽻뛕髤ꀟ쾄竌瘆撽錁鈂�ꕁ쯨ᩦ禾ஈ섦�ꎤ︙媟臍ぐ舫ꇊ⽨扚ꬪ⾑짎魞�䓐쎲ᢜ妢澈㫓㮰�휼�ﶤ朼㍵㬞ꠇ쥖ᚔ舥ჽ证鏩⢃鍉�쌁듒ᇄ邔뜖鵶飂퓺牃�ⶄ䇲�Ŧ뙝銆⮉闓㧁ꪬﾏ㶫ཱི從뇺똭訞㫅厥�뇑穠擜뮳ᡉ䌸鯮䷗⋸�묤Ủ㢋譈셠勒倬僫⸝锕ǅ嬕詐ꑐ犖䳩뱥ʴ岵놄횂矧ݨ펨ꌳ燾馞鶝♉㹹쉾㨅뱟狍릪�궖Ţ썁沣狘㆒倳넹ৌ퍔溤㫏밓숋ロ뭈瘄르䏅桡�㐶韗蛅욭짎붶મࢰݝẬ㡐ᬘ縳눔閫쮘僭殝䎃ᶇ㛈뗶燘㪞饅鐟뙻֍곻殅瀅委褴௞럖ꦋ綺걦⊎溟貥詯驝搈皂쩇䷮윂荃몥ଉ䊫르�葜㫑㜠鄎뢻꼸眆齃嵣�봵⻀ꃖ⻸䏏탬桂࠻ᓟ採碜⵻뺂치혂쑚헉ዬ졖얄�Ӷ懑⪌ꄒ�災炍猚⸲㄃恹�禂⃝悩虿퀌髝⢧阮�ㄢạ産㠻ゖἁ⓫棤ҟ鏋倷☯厨憞卶崠픍升䫌筣랤蹪瘲㰱㙺鳨觛琭듘᝺ﯠ蘖稔鎮ᨲﯗ䬭遍⾔�빆劫ぇ酯庫憿붧療꨷獞竬禥渻㜑ኴ氜␖桭꘻㣤䮘㙏뎒䇒ꠉ楀뗖譡곀쐤�ꕛ㦯淰壛汉答ꏎ铜石ㄕ঑䣜폛蝱포ⵦ怫휦ഊᘪᄆ࣯㔇恼ꒉ鋙䛣씚ರ䑱�咴瀧켒᝷寑硁序冔糔躆ꫯ哝鶬옺烥ꙫ䲷䆻듀㗛鿖ᇢ滑鉐쯅⁶ꐂ⋘컚ۏ蛳阱岪�밙䰙ᆋ酰뜓쉜ಛ嶫ᮘࡿ泇澉떉鉃ﻥꢸ�䫕�끎捱μ圏﯂懭榋骮늊ḗ貈쭑뉚쓥ඊき᷃里䵽嶮磯⹽髖ꩣ煙慗Ⰵ怙鞎ꃰ㒈侻纷➱﬚蓢㖊踎鼐덟곭䩛䟳ﵫ┄舤裎ꊘ呩릻㢗㼜⁧�潦킡㝹꾖션왬镄銖槱井릊㐱ᓲ뒃䉘筈柊㨏Ꮤ즑ᐊꇃꯝ睪餃ⅯΫ⫬牮囃㾍歊⤆頃�髕祑쉚풤㖨㠂뚿偂쭞嬲シ躻㶳挋ꢨ러敵蜝ꌊሓ鑅⯈貹局犛⨓茺岚㬩ࡲꥲ礝쥄옼㛇犫پ閕鋃욥늄됻見ભ靚ﴈ⍈惽⁻㵩ﰇ剠娄䓓꣓沉뮸㑌뷒䘻⫍宗쌰Ⱇ㠲ঢ়鰳鑳꽓﹒읊죋荼簗輷䤖媈穃⋥ힻ肊ᶊᑦ訟틛靭瑀쩣鲊ሦ陭湣湚퐆�顣㈃㵙䒰裏鍔滝༁�눌鼿嘎⤞썆⻓膄욽̊⑲聯쐟콺ܖ拊⨠탌븨灒數Ɪᡜቶꚷ뫃頧鿜䯩숵븾뙣씷筺㱩ȕ夺擄ᑲ휞잀륓챋�簧癸鴌ꯊ㊐摠䊴艙ힶ浼㗍䁹䁩壢澙躁岊깋顛芣쏌뭍殈塧観奛䙋윝䍤ﶘ쓝瑠灊꯷㩣瑝ꄡ軞䩷钊ꨮ壶閹뉉섖⚋荺ᗍ⥀촔喵徶ᳯ굮뷕귦癠䆕䃫࿁增㝮鶧Ḹ̷夙ᦶ飃눮윅㰒踬骼쌒묾눎夾ꦮᎡ齓貐럶䇦眱ꊋ︤ᕝ㚞�㬉闆ਬ茡瀀䲡짚椨⫈极хཁ⛒栳ㅸ밪錫읽鰦坹�僉蝉覾్勢젝ấ赴췟襈柺樝뛅�ꞩ騼ℾ汮霓㳪婠ꇎ䛽봇냩㶲⯑�ㅬ뭪皪櫕뙙쌡⯢⻌啐ቄ蚉蠲짛䐛૚﫪치ৰ䍸㥠ⷠ灶笔泻㰦稠藠뵧眯㐹ۑ麇笃킄阳㘝➷뭚ᔌᏌ黁ᐗ﶐䊷爇詃⺬掻姐璷뢂䴽ꀎ噸䝂欧觙�恃䡯Ⅳ㤣�赾躧䚾핝娱䙟卜ޠ栈뭋弹岲屭儘콊⣢ැۡ屝ɯ鬸焸뜢᭻䈎奱꯴坴⨍䕙옸橁讂޳鷢텆僾멞䶅鲼곫⚶䅑⥻謏庾껏⒳蔖ꯟ鳉믩ၫ�䏕穡圕ྀ砼댶빭쨖엌㕨馸់耝⓫类ꍑ顯⨍㫊䷌鸩护遅詥枞ᝫ�錨췂ꉂ뻞巂訶｣ㆰ鷋⭕㏞鈰퍙ϔ渨썜㪲믄�䞽쇱੾詛餢蓽⯋�혩쳑璥倚ꈶ瑎ս﨟笕ᕗΧ걓业철縃鲊饾顮ば㰢愄㊱충⒄髊ཥ滀ꨏ吝陋㨓䩚뤁⅌蟐蛺�葹ၰ쾅哤㹂괕檹谂�豸랙䜷蕱쨪ⴐ䊻牘튄찙谤�憸뾷酏蚤⌳骜ꌳ觔䐹䵻ࠏ꽡ᇆܯ⮓蠭ᵙ튢秀ꤥ筯塬Ỻғ쎸켽ᗭ鬾瓢릻氬뫂蒥癘廚뎼ᑐウ萩뗆㯶媏휁⁋瞪绒汭鲅闌撵ᛳ䉼蕷張Ӥꍡ녛ǘ걳ꊋ掠䜢⺆ꯖꋵꛦ⃞ጩ꺑旊௠秂꺬ᓤ痔閚∣捙瓑웥疢প鑯ꪏ�쇁듵⎷伂縺ላ椊팓㫱芤椁ꡖ늊ᘭ⤦ꓓ侺留댤鉳蝁ᶢ凗釫蝰쉺渷έ㲞뭍඲㍅祰挬섆≲䤫ﬡꮆ䠺祖깝蕾㣝ꘞ⡖꠰僣❓ᓌ๏顠뽸ʵ랠仢Ԑ兤뎢鶉᷸Л꽁ꢉ䣸熶叅䵺淐ꭰۯǖ͖�륜错㫉솪铺剥뚈㮕㶦鐣ꗃ臩ힱ繧閒單䘔준耝姘�撍鏩䖟枣ꏙ檓ꧦ㯆觽⽨턶뻚ꢅ祘뛮䮉ฎꉜⲗā졷塤羁滷ꙮ鑒테뤩⻡鬬疭申鶓ᢲ༥ꧬ쳚땹듟㚻ᨅ际眏촑㣏轇䂹밽寓㒋틙�깗Ἶ刅긃퐧諴᱇≈찕苌ⲹ䝃泃㮡䑇ꎦꦢ艋澄掄ꀤ㒣他槗䵺阖륮뽚₫댇幁൚록켭ኻĚ셾및섈깡讉ᕱ�㌚遻࿆쮧瑂⦡三⫮퐚쎼傮ࡍ蕬㭖ಶ茭�쁉糡ዀ�껕晈뷲붝䤃껁ᮠ⑰⃠깯犪葵Ꭴ뫆਒戟膼ॎ瞨亿纸༤䆴郸駮愕諮㘼ꗲ䖸瀹�ꌴ獊賛棙ꏛ㔞遚㜄᪐閉搡ᝄ洩跒詜뫨घ偮麫皘❋샓晱棎൸焺茳䝂✃⾚�쫌窣Ό⎪骉⼑逸澆එ崴蝻కꓵ駔�뻻阙駂㓎噁�ݪ톒腾틗茚膌鎔팀≐号됕᪨妹눠杓ᐁꭄ짍鉆䅷ᯯ۞违梏�볞獆❋봆⺊霯㢼댞漣鲀콬◬ᝎ鳐졉⹪獌ꇴ聆﬜렧苢�݌媮쌎訜룅㠸ⵢ욐〹≊ᐉѰấܵၐ♴辟▻㝨맬淀䩌ᘩぉᚰ覴㏈弃፜귚꼔愌獡䋎ꅕූ뒃錇⋫蠓వ悃휸ݳ纍쫫ߥ닽驇듸륆벲鬇⚇蔼䚣綈ᤸ⤐ࡉ䍵๝啷㍎屢냱ﬀ钄汑툟蘊꣱⣭Ӆᡚ쇫瞜띖꽊ⶺ踝ᛵ곅뼀䷸槗॒犄⸫ኞ졓䵁員ᥢ얚ꑞꓢ䁭ᴚ띩ழ걋訷뵹ॊꅠ곺汐堠ⷠⱘ⸬휮懍삸欫澁䚞뮕玶볈谏栈慒᥮䓈썸䡏챼㵮頳鹉潨긛櫰䣟惻⸿勓皥覩팢ඤ⅌冣熞⌗鵵ꏬ롉᪡洛᳇諷쑒䶶浤백몹禘ꦑግ퓕杭柂☔㶌墣頪�嘺ﻃ쀰歜⌅鴒抈ꦇࢵ㯌Ⴭ⮠渖廰匟ᦫ莛䐵늴崁술詶ㆹ呸醖퍝ᐂ⺘Ⱑ坃䂁Ằဆ⩳넹㜕硫ᶊ㸦힛஭鵦畤Җ쩆궰잨䢕鍠ⲑ띄癪큛ず⢈◂ﰱᙜ眩ꗍ熲죘䊵食䉮�ࡅ駰덦붭힡ᜱ詃郈짒듦檻밢代⹯唦າ鲡웴뀓媎列⪒鈶씹鄢韓ꗣ⛅憎﷉뽮嗇όሂﯓ�⦅騣蹔䈥㐂ジ爠漰₸뙾퓌鯲鴱쐡⩄櫭ヮŁາ訪쪼䲒辜葛釭籇溒䯎᤾椦ಝ쑪鷁ꞷ⽤懸儏쀒㝸뀆包ၒ恵嘭盚죕Ş꜅齸ၱ툵圕썮�爜텆族ᵩ꧒坛창돷枹뒛쌮묆풶�眍捕坭勽應렉먮홞౯䍎ᇲ�춛卯jຄﴟ⢚픎器僛螙츍熗瘘ᕷ㞻ዲ㖐䑘謋፰㒟꜡冂䣷⚽쨅医鄂㖳䅗љ郺補␓㞩Ё嵎狼黕黛炔ᖑ犿ꎶ陉翗�홍矌糒⒋�薠懎딋켇셬뿖�螩㳏�㮩䕲雌ᱲ盆釥䇨๥䇅㩛䁴ᵪꮻ핐텝ꯄ㭱麐睘⃆ያ蜐괗洗䋧흔좀ዚ⊟怾摧謸ꍓ팃柒법茒䛔唯ᛐ臲鷍零䵏箞릭擐뇬⏡㩍﫯汼ᮃ徼≵瞧Ｗ䟞놵ﯢ䦩ଶᝤ‒멊蝾늹拇撞⅗㬑⦒✶橆咳ቭ㮨⭀餹縙͏뤩ሕㆆ风맟嗊丼孕㥜蹯ᔪ䂔⃩㽹എ黅잮쁋렜然�껸޲㠐䨲䓛훉畴潊ꯍ₧臢퉐ꡘꥸ㯁謘䖿犦�륖麳坵ଽ嘖뢠밟堷禅욊佫೑⇁ܩ篖┊瞳ϕ푀嶷왝紵屘샼ḳ씼淫ቊ�拾啝《݅‐䀧ऑ影쨣ꃩ೷調醌䖃䒠抿뗀葺㭲蓥蓛⹌硘ᾍ듚雡ᶩ兀붳ꎃ꺞瓗훞ꢚ薪넰헗욌끥纳惏�壭྆ᢁ�맢㜉끸䫛鶄혃캷땑넵䘨硗�숻�欫轨ꩌךּ၀姌솹㛫�〬發򂲅軩ৡੴꇒ穓쁫㒜冼ᒲ萁쬹�聹唴ؚ遷ཝ禕鄖璙嬫⍹匰嘑ᅆ푕ᰜ⚰罦뇁鼹拸⼈곰�ア툧᝟໠�䢹㊥횄塎�ힺ꛿뽵熪箇�츂梌泪栟锽哈쥷Ꙕﰆ뷡꾋浪♧햙䃥匎ⓧᆗ搘휌뛫䩩苄娐軲ޚ댫펝봳楒ꔎ鰕䨈ᰭ簪漢쁔䕪ࢌ竾ダ됗徐췇쫐爒匒鰷ਲ훓熑頜ㆡ⨎㭼굷祙∷逅衉�ࣙ桧㋄璃せ䚆飁鄬♣⅊ᑽ梜ࠤ䠥쫵瑝š輞佩ﭫ뭤逝ו➍岀舗ꮠ郡읔㳛ヾ罫㣥ꆶ헆缛ﮟ㛲䕀飾遘゛؂⁧鸇鸒�藕␸䕙냻착煢⸔莛ʧ㱨䴑ᦤ틡䍠뜔䖘ꉞᶳ荸⡼쁯战뢹쪲㢺胊孺ԬꙚ꺡헬痺麥ൢ俈큡喬腙�뢳廞棪讲Ȩ陲ݯ塵큫㤕㡏㘰➢哄댵晇㬲쵲嶪冲㩕驄؍甯꓏ق₯兺寋坹껙䲪夸釰Ẃ惺끽Ꚑ駰竴ꗚロ甶裝눎ꙁ磼௔⳹땔ꎌ觫㩁곲깟༠ෙ㺽쒞淉䠽켶㸾ᤣ箄弛鍥剳⪸觏陮혦㟁겘섗�䷵爅꜉ᯎ僒킎�牙ࡊ㹅쏴諢䄥芫康ﴲ해邉쿎釡्䞅ﰻ�ᚒ鹱≶빲싁࢙喎ꂬ⭗匸슥깞쳢ೊ�剎আ⛶댏㭖搷Ἲꦛᖣ児릉ങᲩᢳ㪚뎄䣼ꑇ꬘᭧놳᠄䜵엏㵎ၺ⃊괌魹䲶ᵻ븑瓶夯ࢭ䓴捂䐘馀≁墁ᣯ䖑術ᳶᒀ뵺큞갍՟㝋௸∻朗䴛ᴚ竭䶷솧焸䗘ᕎ朱�銄讣饒ꔟᅱ廭醝잻鍑ᶅ懖魓䍓聸�巶䧥햠㱥滚ㄸ䶛㘝ﺙ욿꿍춆舏徛鬍ꪠÿ隸냕坹ỽ쿾�嗝ҏ࣡诨G԰#箕ʘ耑㷊륌䑻犠匏潀Ⱦ륐⦇ὀᤞ겨醰�菻φ뿏￯￉࿗瑸㨼ᴞ躏읇﻿쏸﹟쥻ꃗ睟῟ﾺ➾復돷綯ᯁ쓿�쇽Ᏺﳿ㼟蟩ᾡ｣俇鉫뼗�䟿＞䜻싾빳럩Ｏ﷊⧯섍�∖㘾俟꿭㿠탳彻쟾짾Ｓ㯕齙ￇ鞧쓽﵏וֹ뷏ﯽﱾ；�쿸ﲿ繯寤慨駺붗寲ퟴ龻븟䯶﬿矌꿮࿣⾅ꗇ綗랙�寽纏섚�뾓鏯罇謁澥Ữ�ύ㻻탻沯菉뼵뺔Ｔ篠᛾臾ﺧퟓ衯빿纯 ﰟ䯐�뾯ય鼣�㰷Ự퟿콓뾆罍៙︾翃ﳯῖｘ㿇뫽쌧䌿髞︗忤뇻缷᷾筏燨糏⯌⣟暾﻾罯쿵쌽굽ￓ࿻絼毲䛿꛹�﾿ཱ쾅ﾗྕ㿥矱瞍﯁義뱕礯ߝ쇾鸋诽齆싼師탴幋뗺孏홖﹟㾯컺㴏췩謹ꦏ福珢ﯯퟆ埾팼ｸ﬿濂מּ䌵뗴统��鿼ｊ㦾ﱻ䯝翷㧱럑귾៺ꧾﱧ뿍ߣ祯濧מּ賃귶祯賹ﴹ쾧�뼴嗭碟쟺幧᷼︴漋睸뽳㸮 뾻뿡㼋룸／߫辽矽縏뱌忧ꏴ瞧ﳍ稿믒㵗展쟽뱷꼽麌럸ﮟ枘㺛짻໯迄㼷ﵯ㾜잽䄷ꞑ●৯쿳럾슏뿜텽ẋꝺ﫼뻗ꏯﰖ㽧⟾�떓৿           
+
+
+-----BEGIN CERTIFICATE-----
+MIIG0DCCBbigAwIBAgIIaml+e2GOqBIwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjQwNjA5MTYxMTA0WhcN
+MjUwNzA0MTIxMzQ3WjAsMSowKAYDVQQDEyFjaGFybGVzaGVuZGVyc29uYW5kaGVu
+ZGZhbS5vbmxpbmUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiI8en
+RDUb9F0TJtRpZZr9Fk9735xn06bX7xIWe4pVx87vLrSs+68EceaSTb3Enw0cdgiu
+pKVY2pVZielhl4lE5M3dhDfLF1UKiJQYi7kgZWalJ+SH09KbA7ml9Pk6U0cpENNU
+VSCafNE5b1tpfqgGr4yW+Gxv+CrenGCc6bkvzLkUa//2ql2lFAvrkccCG16XbZss
+uDfEL+VSQ3Lr6OW4h/FjBYwqh79m0ncg0gJFhtF9tNFAUuIpIpF2wTlIc/cHc6u5
+njebnbrF4mM5iPN1OaM/nWbAtQDj680DEYybtePMoxjpfJCGcPjmc2z78FYIe6Tp
+gIxMDVIaAdoSFz/xAgMBAAGjggNrMIIDZzAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIw
+MDAuoCygKoYoaHR0cDovL2NybC5nb2RhZGR5LmNvbS9nZGlnMnMxLTIyNjQ4LmNy
+bDBdBgNVHSAEVjBUMEgGC2CGSAGG/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6
+Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIB
+MHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRk
+eS5jb20vMEAGCCsGAQUFBzAChjRodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHku
+Y29tL3JlcG9zaXRvcnkvZ2RpZzIuY3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz
+1/tss/C0LIDOMFMGA1UdEQRMMEqCIWNoYXJsZXNoZW5kZXJzb25hbmRoZW5kZmFt
+Lm9ubGluZYIld3d3LmNoYXJsZXNoZW5kZXJzb25hbmRoZW5kZmFtLm9ubGluZTAd
+BgNVHQ4EFgQU2LlihQAHCiKis3HbDjld09CGTLQwggF/BgorBgEEAdZ5AgQCBIIB
+bwSCAWsBaQB1ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABj/3E
+iC8AAAQDAEYwRAIgbwxQFAkKkft6iWNBl+2awzVl5Hv1tor6DJsuxejlV4ACIGQs
+4x+4v/H+RrLxnQCe1d6r5gKfJ/OM3wA+UQcaVtFaAHcAfVkeEuF4KnscYWd8Xv34
+0IdcFKBOlZ65Ay/ZDowuebgAAAGP/cSJNAAABAMASDBGAiEAkE85c6uLfEEWlqFd
+vNPl0de9MYF+CzKmMtXTS63RaksCIQDfeJO0tmjoETR8Sg6HpeSUSIwGN5921sB5
+cS8Bv+tkXQB3AMz7D2qFcQll/pWbU87psnwi6YVcDZeNtql+VMD+TA2wAAABj/3E
+imAAAAQDAEgwRgIhAOyDwXdRD+NJOwX4rKXxCK9vaJVo+WmcRVZ9jMDhfTHGAiEA
+sTSbPAKQtMsVJ/x3trZPeZz8mqMkIvk42aydt4tyd3QwDQYJKoZIhvcNAQELBQAD
+ggEBALHqZXbkYs2sUXxIigdd6YMctfngYQAmJnwhnVkYIaayGL84erN5gVQvJKpP
+ItEbkKfuZ2pFrjH7JX0lgVNmsNnMAiQw7hergQ5dlGkUXzftddlQ0Uj7U59U3IW/
++qEJo5NLjDjB0r55CdTBLuN8A5+3ThomkTBGUFMEbuRjnXjO/wCoQPEseZsaPjWP
+2yafoz+3E7vTVYDi3fSozxAnvAZ5a833wAcIlmm/eNi+vpwTn387B3FvoTVt7w8H
+Fn5IFa6vg6a/Eq2p6TIYag4PvK2rn+VshoxroEff1nFkocZQpirHSGqYEdmsYdms
+0RF48D02wObW1dCMpmdNbDdiduw=
+-----END CERTIFICATE-----
